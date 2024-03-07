@@ -32,7 +32,7 @@ check file content MIME type before execute.
 ### Installation
 
 ``` 
-composer require nilgems/laravel-textract
+composer require FinanceGPT/laravel-textract
 ```
 Once installed you can do stuff like this:
 ```
