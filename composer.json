@@ -36,7 +36,7 @@
         "ext-gd": "*",
         "symfony/process": "6.4.3",
         "phpoffice/phpspreadsheet": "^1.23",
-        "phpoffice/phpword": "^0.18",
+        "phpoffice/phpword": "^1.1",
         "laravel/framework": "^10.0",
         "thiagoalessio/tesseract_ocr": "^2.12",
         "html2text/html2text": "^4.3",
