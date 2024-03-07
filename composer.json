@@ -1,5 +1,5 @@
 {
-    "name": "FinanceGPT/laravel-textract",
+    "name": "financegpt/laravel-textract",
     "description": "A Laravel package to extract text from files like DOC, XL, Image, Pdf and more. This was forked from nilgems. They developed this package by inspiring \"npm textract\".",
     "type": "library",
     "keywords": [
